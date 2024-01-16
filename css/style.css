@@ -1,0 +1,11 @@
+.blue-cell {
+    background-color: #006CFA;
+    border: 1px solid white;
+    color: white;
+}
+
+.green-cell {
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+    color: white;
+}
