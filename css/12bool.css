@@ -157,6 +157,14 @@
     justify-content: flex-end;
 }
 
+.justify-space-around {
+    justify-content: space-around;
+}
+
+.justify-space-between {
+    justify-content: space-between;
+}
+
 /* paddings & margins */
 .p20 {
     padding: 20px;

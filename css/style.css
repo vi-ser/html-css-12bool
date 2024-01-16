@@ -13,3 +13,7 @@
 .double-height {
     height: 120px;
 }
+
+.flex {
+    display: flex;
+}
