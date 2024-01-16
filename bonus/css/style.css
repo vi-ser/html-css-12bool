@@ -1,0 +1,27 @@
+.red {
+    background-color: #ff0000;
+}
+
+.black {
+    background-color: black;
+}
+
+.cian {
+    background-color: #00A4B9
+}
+
+.light-cian {
+    background-color: #DFE4D9;
+}
+
+.space {
+    background-color: transparent;
+}
+
+.square {
+    aspect-ratio: 1;
+}
+
+.container {
+    padding: 50px;
+}

@@ -17,3 +17,8 @@
 .flex {
     display: flex;
 }
+
+/* padding */
+[class*="col-"] {
+    padding: 20px;
+}
